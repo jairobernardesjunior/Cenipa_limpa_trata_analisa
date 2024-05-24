@@ -1,6 +1,6 @@
 # Cenipa_limpa_trata_armazena
 
-![Imagem de Aviao](https://github.com/jairobernardesjunior/Cenipa_limpa_trata_analisa/blob/main/aviao.jpg)
+![Imagem de Aviao](https://github.com/jairobernardesjunior/Cenipa_limpa_trata_analisa/blob/main/aviao_b.jpg)
  
 ## Monta Base Analítica de Acidentes Aeronáuticos para Estudos
 
